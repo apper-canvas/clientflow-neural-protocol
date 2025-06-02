@@ -7,6 +7,6 @@ export default defineConfig({
     allowedHosts: true,
     host: true,
     strictPort: true,
-    port: 5173Add commentMore actions
+    port: 5173
   }
 })
