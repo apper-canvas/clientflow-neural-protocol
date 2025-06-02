@@ -547,7 +547,7 @@ const MainFeature = () => {
                         )}
                         <span>Due: {activity.dueDate.toLocaleDateString()}</span>
                       </div>
-                    </div>
+</div>
                   </div>
                 </motion.div>
               )
